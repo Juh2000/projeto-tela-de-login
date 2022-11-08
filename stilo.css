@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+  
+}
+.main-login{
+    background-color: #201b2c;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.left-login{
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+    height:100vh ;
+    background-color: rgb(0, 110, 255);
+}
+
+.right-login{
+    width: 50vh;
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.textfield{
+
+}
+.card-login{
+    background-color: blueviolet;
+}
+
+.btn-login{
+
+}
